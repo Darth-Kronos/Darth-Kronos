@@ -21,7 +21,7 @@ I am a graduate student at North Carolina State University pursuing my masters i
 
 - 🔭 I’m currently working on a lot of assignments from college
 - 🌱 I’m currently trying to learn machine learning xD
-<!-- - 👯 I’m looking to collaborate on  -->
+- 📖 I’m currently reading [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) by  Chip Huyen; Loving this book 💗
 - 🤔 I’m looking for Summer 2023 internships in the field of Machine learning and Data Science
 
 ## Skills
