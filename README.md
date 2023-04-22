@@ -20,18 +20,17 @@ Here are some ideas to get you started:
 I am a graduate student at North Carolina State University pursuing my masters in electrical engineering with a focus on machine learning and computer vision. I have a strong background in Python and am skilled in using PyTorch and TensorFlow for building deep learning models. Additionally, I have experience in deploying cloud solutions using AWS, and I am always eager to learn about new ways to deploy scalable ML solutions in the cloud.
 
 - 🔭 I’m currently working on a lot of assignments from college
-- 🌱 I’m currently trying to learn machine learning xD
+- 🚀 Getting my hands dirty with Generative AI and NLP
 - 📖 I’m currently reading [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) by  Chip Huyen; Loving this book 💗
-- 🤔 I’m looking for Summer 2023 internships in the field of Machine learning and Data Science
+- 🤔 I’m looking for Fall 2023 Co-op in the field of Machine learning
 
 ## Skills
 
 - Python
 - PyTorch
-- TensorFlow
+- mlflow
 - AWS
 - Machine Learning
-- Computer Vision
 
 ## Connect with me
 
