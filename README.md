@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=Darth-Kronos) [![GitHub followers](https://img.shields.io/github/followers/Darth-Kronos.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Darth-Kronos) 
+![](https://komarev.com/ghpvc/?username=Darth-Kronos) 
 
 I am a graduate student at North Carolina State University pursuing my masters in electrical engineering with a focus on machine learning and computer vision. I have a strong background in Python and am skilled in using PyTorch and TensorFlow for building deep learning models. Additionally, I have experience in deploying cloud solutions using AWS, and I am always eager to learn about new ways to deploy scalable ML solutions in the cloud.
 
