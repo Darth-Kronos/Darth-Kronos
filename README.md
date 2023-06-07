@@ -1,3 +1,4 @@
+![](img.png)
 # Purushothaman Saravanan | Darth Kronos
 <!-- Graduate Student at North Carolina State University | Electrical Engineering | Machine Learning and Computer Vision -->
 
