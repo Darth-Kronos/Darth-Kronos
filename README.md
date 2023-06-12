@@ -29,9 +29,10 @@ I am a graduate student at North Carolina State University pursuing my masters i
 
 - Python
 - PyTorch
-- mlflow
+- MLflow
 - Prefect
 - Terraform
+- TensorRT
 - Docker
 - AWS
 <!-- - Machine Learning -->
