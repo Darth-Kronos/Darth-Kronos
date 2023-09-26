@@ -23,7 +23,6 @@ Additionally, I am delving into accelerating Machine Learning models. Presently,
 
 - 💼 AI ML Intern at Kodak Alaris
 - 🚀 Optimizing ML models for edge
-- 📖 I’m currently reading [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) by  Chip Huyen; Loving this book 💗
 - 🤔 I’m looking for a Spring 2024 Co-op in the field of Machine learning
 
 ## Skills
