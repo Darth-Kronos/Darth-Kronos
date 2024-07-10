@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a graduate student at North Carolina State University pursuing my masters in electrical engineering with a focus on machine learning and computer vision. I have a strong background in Python and am skilled in using PyTorch and TensorFlow for building deep learning models. Additionally, I have experience in deploying cloud solutions using AWS, and I am always eager to learn about new ways to deploy scalable ML solutions in the cloud. 
-
-- 🚀 Optimizing ML models for edge
-- 🤔 I’m looking for a Spring 2024 Co-op and full-time opportunities in the field of Machine learning
+Greetings! I’m Purushothaman, an AI enthusiast with a passion for accelerating the entire AI pipeline, from training to inference.
+My enthusiasm extends to on-device AI and distributed training paradigms. I firmly believe in the power of decentralization, where every device contributes to AI training, fostering a more inclusive and scalable AI ecosystem. From fine-tuning machine learning models for computer vision to optimizing large language models, I find joy in pushing the boundaries of AI deployment strategies.
+Join me on this exhilarating journey as we harness the potential of AI acceleration, paving the way for smarter, more efficient technologies that seamlessly integrate into our everyday lives.
 
 ## Skills
 
@@ -36,6 +35,6 @@ I am a graduate student at North Carolina State University pursuing my masters i
 
 ## Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/purushothaman-s-yadav)
-- [Email](mailto:psarava3@ncsu.edu)
-<!-- - [Website](https://[your-website].com) -->
+- [LinkedIn](https://www.linkedin.com/in/puru-s)
+- [Email](mailto:purushothaman.syadav@gmail.com)
+ - [Website](https://purushothaman.org)
