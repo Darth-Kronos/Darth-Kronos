@@ -1,4 +1,3 @@
-![](img.png)
 # Purushothaman Saravanan | Darth Kronos
 <!-- Graduate Student at North Carolina State University | Electrical Engineering | Machine Learning and Computer Vision -->
 
@@ -18,8 +17,6 @@ Here are some ideas to get you started:
 -->
 
 Greetings! I’m Purushothaman, an AI enthusiast with a passion for accelerating the entire AI pipeline, from training to inference.
-My enthusiasm extends to on-device AI and distributed training paradigms. I firmly believe in the power of decentralization, where every device contributes to AI training, fostering a more inclusive and scalable AI ecosystem. From fine-tuning machine learning models for computer vision to optimizing large language models, I find joy in pushing the boundaries of AI deployment strategies.
-Join me on this exhilarating journey as we harness the potential of AI acceleration, paving the way for smarter, more efficient technologies that seamlessly integrate into our everyday lives.
 
 <!-- - Machine Learning -->
 
